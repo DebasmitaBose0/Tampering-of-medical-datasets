@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Medical Database Integrity and Tampering Prevention Platform",
+  "description": "An educational simulation and defense platform demonstrating medical database integrity verification, attack analysis, security auditing, and anti-tampering strategies using cryptographic chaining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
