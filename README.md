@@ -1,4 +1,4 @@
-# TMDS — Tamper Monitoring and Detection 
+# TMDS — Tamper Monitoring and Detection System
 
 TMDS (Tamper Monitoring and Detection System) is a full-stack healthcare security application designed to protect medical records from unauthorized modification, deletion, privilege violations, and suspicious user activity.
 
